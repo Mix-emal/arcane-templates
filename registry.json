@@ -1,9 +1,9 @@
 {
-  "$schema": "https://registry.getarcane.app/schema.json",
+  "$schema": "https://raw.githubusercontent.com/Mix-emal/arcane-templates/refs/heads/main/schema.json",
   "name": "Arcane Community Templates",
   "description": "Community Docker Compose Templates for Arcane",
   "author": "getarcaneapp",
-  "url": "https://github.com/getarcaneapp/templates",
+  "url": "https://raw.githubusercontent.com/Mix-emal/arcane-templates/refs/heads/main/templates",
   "version": "1.35.0",
   "templates": [
     {
